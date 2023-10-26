@@ -1,6 +1,5 @@
-h1{
-  background-color: red;
-  border-radius: 5px;
-  color: white;
+.container > span{
+  color: red;
+  padding-left: .5rem;
+  align-items: center;
 }
-
